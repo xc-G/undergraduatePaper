@@ -1,0 +1,51 @@
+shape_k:2_lamda:1
+(4144, 108)
+count_mean 61.0
+shape_k:2_lamda:2
+(4144, 156)
+count_mean 82.0
+shape_k:3_lamda:1
+(4144, 492)
+count_mean 267.0
+shape_k:3_lamda:2
+(4144, 732)
+count_mean 378.0
+shape_k:3_lamda:3
+(4144, 972)
+count_mean 482.0
+shape_k:4_lamda:1
+(4144, 2028)
+count_mean 468.0
+shape_k:4_lamda:2
+(4144, 3036)
+count_mean 624.0
+shape_k:4_lamda:3
+(4144, 4044)
+count_mean 801.0
+shape_k:4_lamda:4
+(4144, 5052)
+count_mean 1061.0
+shape_k:5_lamda:1
+(4144, 8172)
+count_mean 1040.0
+shape_k:5_lamda:2
+(4144, 12252)
+count_mean 1651.0
+shape_k:5_lamda:3
+(4144, 16332)
+count_mean 1699.0
+shape_k:5_lamda:4
+(4144, 20412)
+count_mean 1838.0
+shape_k:5_lamda:5
+(4144, 24492)
+count_mean 1966.0
+shape_k:6_lamda:1
+(4144, 32748)
+count_mean 1699.0
+shape_k:6_lamda:2
+(4144, 49116)
+count_mean 2282.0
+shape_k:6_lamda:3
+(4144, 65484)
+count_mean 1949.0
